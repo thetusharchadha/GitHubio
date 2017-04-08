@@ -1,0 +1,120 @@
+#navbar1{
+    background-color: black;
+}
+
+body{
+    background-color:#01E4AD;
+    overflow-x: hidden;
+}
+#name{
+    text-align: center;
+    font-size: 4em;
+}
+#image1{
+    margin-left:30%;
+
+}
+#intro{
+    font-size: 2em;
+    text-align: center;
+}
+#start{
+    background-color: #01E4AD;
+    }
+.middle{
+
+    text-align: center;
+
+}
+#middleh{
+    font-size: 4em;
+
+}
+#middlep{
+    font-size: 2em;
+}
+#AboutMe{
+    background-color: #c0c5ce;
+}
+
+#navbar{
+        position: fixed;
+        width:100%;
+        margin: 0px;
+    background-color:black;}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:hover {
+    background-color: #01E4AD;
+
+}
+img1{
+    position: fixed;
+}
+#Edu {
+    text-align: center;
+}
+#ph{
+    font-size: 4em;
+}
+#eduh {
+    font-size: 4em;
+}
+#pp{
+    font-size: 1.5em;
+
+}
+#edup {
+    font-size: 1.5em;
+
+}
+    #eduh1{
+        font-size: 3em;
+    }
+    #ph1{
+        font-size: 3em;
+    }
+    #Personal {
+        text-align: center;
+    }
+#Tech{
+    background-color: #c0c5ce;
+}
+#tech{
+    text-align: center;
+}
+#techp{
+    font-size: 1.5em;
+}
+#tech1{
+    font-size:3em;
+}
+#tech{
+    font-size: 4em;
+}
+#Contact{
+    text-align: center;
+}
+#ch{
+    font-size: 4em;
+}
+#chp{
+    font-size: 1.5em;
+}
+#ch1{
+    font-size: 3em;
+}
+#fo{
+    background-color: black;
+    clear: none;
+    text-align: center;
+    color: white;
+    font-size: 1em;
+padding: 5px;
+}
+footer>a{
+    text-decoration: none;
+    color: white;
+}
+footer>a:hover{
+    color:#01E4AD;
+}
